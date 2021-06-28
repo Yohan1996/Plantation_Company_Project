@@ -1,10 +1,10 @@
 # Plantation_Company_Project
 
-ER Diagram
+<b>ER Diagram</b>
 
 ![image](https://user-images.githubusercontent.com/69201980/123692095-08c70a00-d874-11eb-9bd5-f35478c4f78c.png)
 
-<b>Assumptions of ER Diagram</b>
+Assumptions of ER Diagram
 
 Employee must have only one division but division can have more than one employee.
 Employee must have only one field but field can have more than one employee.
