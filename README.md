@@ -18,6 +18,15 @@ I have assumed that working date of the employee is based on the relationship ba
 
 ![image](https://user-images.githubusercontent.com/69201980/123692204-27c59c00-d874-11eb-9c7b-d017f9db8fac.png)
 
+<b>Interfaces</b>
+
+![image](https://user-images.githubusercontent.com/69201980/124172042-f85a9d80-dac6-11eb-817e-9b03fcff4a66.png)
+
+![image](https://user-images.githubusercontent.com/69201980/124172067-ff81ab80-dac6-11eb-8038-796860135ca1.png)
+
+
+
+
 
 
 
