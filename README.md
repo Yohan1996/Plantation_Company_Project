@@ -24,6 +24,11 @@ I have assumed that working date of the employee is based on the relationship ba
 
 ![image](https://user-images.githubusercontent.com/69201980/124172067-ff81ab80-dac6-11eb-8038-796860135ca1.png)
 
+![image](https://user-images.githubusercontent.com/69201980/124172113-0f00f480-dac7-11eb-8898-31274b1544d6.png)
+
+![image](https://user-images.githubusercontent.com/69201980/124172128-14f6d580-dac7-11eb-88ca-57c4a52cd453.png)
+
+
 
 
 
